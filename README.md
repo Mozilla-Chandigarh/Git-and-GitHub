@@ -1,1 +1,1 @@
-# Git-and-GitHub
+### Getting started with basics of Git and Github
